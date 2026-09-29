@@ -40,7 +40,7 @@ The React Booking Manager project utilizes the following technologies and depend
 
 ## Contact
 
-If you have any questions, feedback, or would like to know more about the React Booking Manager project, feel free to reach out to me at [th.dev.design@gmail.com](mailto:th.dev.design@gmail.com).
+If you have any questions, feedback, or would like to know more about the React Booking Manager project, feel free to reach out to me at 
 
 ## Project Screenshots
 
@@ -56,7 +56,7 @@ Please note that the project is still a work in progress, and contributions or s
 
 To get started with the React Booking Manager project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Dev-Dz27/React-booking.git`
+1. Clone the repository: `git clone `
 2. Install dependencies: `npm install`
 3. Run the development server: `npm run dev`
 
